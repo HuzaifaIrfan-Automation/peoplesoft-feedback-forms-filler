@@ -3,8 +3,9 @@
 ## Description
 
 Feedback Form Auto Filler That automatically fills forms for you so that 
-1. You can utilize that time in learning and some valuable work. After every semester or two or more times b/w every semester.
-2. Stop Admins for giving threats that you will not be able to sit in exams if you not do so.
+1. You don't waste your time in filling the forms (if you don't wanted to****)
+2. You can utilize that time in learning and some valuable work. After every semester or two or more times b/w every semester.
+3. Stop thinking of threats that you will not be able to sit in exams if you not do so.
 
 Code is opensource. Feel Free to View and Contribute any Bug Fixes
 
