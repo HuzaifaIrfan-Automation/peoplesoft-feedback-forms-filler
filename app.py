@@ -333,8 +333,14 @@ def multi_form_filling():
                 single_form_filling()
 
         except:
-            print('Cannot Find Any other Form to be Filled Closing...')
-            break
+            print('Cannot Find Any other Form to be Filled...')
+            # print('Press 1 to Stop..')
+            print('Enter "y" to Start Single form filling..')
+            char=input("y/N ")
+            if char == "y":
+                single_form_filling()
+            else:
+                break
 
 
                 
