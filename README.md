@@ -21,7 +21,9 @@ Code is opensource. Feel Free to View and Contribute any Bug Fixes
 ### Installing Dependencies
 #### Install Python and Libraries
 > pip install -r req.txt 
+
 or
+
 > pip install selenium
 
 #### Install Firefox and Driver
