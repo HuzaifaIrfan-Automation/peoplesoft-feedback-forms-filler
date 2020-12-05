@@ -19,7 +19,7 @@ Code is opensource. Feel Free to View and Contribute any Bug Fixes
 
 # Instructions
 ### Installing Dependencies
-#### Install Python and Libraries
+#### Install Python and Libraries (add to path for easy access)
 > pip install -r req.txt 
 
 or
