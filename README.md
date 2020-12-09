@@ -1,4 +1,10 @@
 # PeopleSoft CMS FeedBack Form Auto Filler (Educational Purposes only)
+Only for Educational Purposes 
+Use at your own Risk.
+All code is open source
+
+
+
 Test confirmed.... 
 ## Description
 
