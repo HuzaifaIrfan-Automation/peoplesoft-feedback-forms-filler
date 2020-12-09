@@ -1,4 +1,4 @@
-# PeopleSoft CMS FeedBack Form Auto Filler
+# PeopleSoft CMS FeedBack Form Auto Filler (Educational Purposes only)
 Test confirmed.... 
 ## Description
 
