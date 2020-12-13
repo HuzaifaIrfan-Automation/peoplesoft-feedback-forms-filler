@@ -61,7 +61,7 @@ or
 
 
 ### 
-* Website [huzaifairfan.com](huzaifairfan.com)
+* Website [huzaifairfan.com](http://huzaifairfan.com/)
 * Email : [huzaifairfan2001@gmail.com](mailto:huzaifairfan2001@gmail.com)
 * Facebook : [huzaifairfan2001@facebook](https://www.facebook.com/huzaifairfan2001)
 
