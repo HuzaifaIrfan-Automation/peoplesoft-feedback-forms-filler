@@ -11,7 +11,7 @@ Test confirmed....
 Feedback Form Auto Filler That automatically fills forms for you so that 
 1. You don't waste your time in filling the forms (if you don't wanted to****) After every semester or two or more times b/w every semester.
 2. You can utilize that time in learning and some valuable work.
-3. Stop thinking of threats that you will not be able to sit in exams if you not do so.(Waiting for Vigo (if eligible))
+3. Stop thinking of threats that you will not be able to sit in exams if you not do so.
 
 Code is opensource. Feel Free to View and Contribute any Bug Fixes
 
