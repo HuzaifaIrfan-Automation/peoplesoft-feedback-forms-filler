@@ -1,11 +1,12 @@
-# PeopleSoft CMS FeedBack Form Auto Filler (Educational Purposes only)
+# PeopleSoft NUST CMS FeedBack Form Auto Filler (Educational Purposes only)
+To AutoFill Student Course Evaluation Forms And Student Teacher Evaluation Forms Only..
+
 Only for Educational Purposes 
 Use at your own Risk.
 All code is open source
 
 
 
-Test confirmed.... 
 ## Description
 
 Feedback Form Auto Filler That automatically fills forms for you so that 
