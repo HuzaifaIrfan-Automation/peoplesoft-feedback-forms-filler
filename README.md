@@ -9,7 +9,7 @@ Test confirmed....
 ## Description
 
 Feedback Form Auto Filler That automatically fills forms for you so that 
-1. You don't waste your time in filling the forms (if you don't wanted to****) After every semester or two or more times b/w every semester.
+1. You don't waste your time in filling the forms (if you don't wanted to) After every semester or two or more times b/w every semester.
 2. You can utilize that time in learning and some valuable work.
 3. Stop thinking of threats that you will not be able to sit in exams if you not do so.
 
@@ -48,15 +48,37 @@ or
 
 > sudo apt install firefox-geckodriver
 
-#### Edit settings.py file Accordingly
-#### Also Edit credentials.py with login info
+
+#### OR
+#### Install Chrome and Driver
+##### For Windows User
+
+> Install Chrome
+
+> Download Latest Version of Chrome driver, Extract And Place it in "C:/Windows" Folder
+> https://sites.google.com/a/chromium.org/chromedriver/
+
+
+##### For Linux Users:
+
+> sudo apt install chromium-browser
+
+> sudo apt install chromium-chromedriver
+
+
+
+#### Edit components/forms/feedback_values.py file Accordingly as Instructed in the file.
+#### Also Edit components/cms/credentials.py with login info
 
 
 
 
 ### Running the App and Watch it Fill Your Forms
-> python app.py
+> python firefox.py
 
+or
+
+> python chrome.py
 
 
 
@@ -70,6 +92,14 @@ or
 
  <br>
  Completion : 3 December 2020
+  <br>
+Update : 22 January 2020
+
+- chrome version added.
+- multitables support
+- auto detect forms and rows.
+
+
  <br>
  By Huzaifa Irfan
 
