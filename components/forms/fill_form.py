@@ -14,7 +14,7 @@ def fill_form(browser):
 
     # if the url of the form is single
 
-    wait_for_id(browser,'QA_SCE_FORM_DR_QA_SCE_Q_30')
+    wait_for_id(browser,'QA_SCE_FORM_DR_QA_SCE_Q_30',3)
     wait_for_id(browser,'QA_SCE_FORM_DR_QA_SCE_Q_28',2)
 
 
