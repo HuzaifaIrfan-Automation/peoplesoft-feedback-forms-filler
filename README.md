@@ -3,7 +3,8 @@ To AutoFill Student Course Evaluation Forms And Student Teacher Evaluation Forms
 
 Only for Educational Purposes 
 Use at your own Risk.
-All code is open source
+
+It is encouraged to fill the form with true spirit and motivation.
 
 
 
@@ -95,8 +96,12 @@ or
 
  <br>
  Completion : 3 December 2020
+ 
+ My All forms are filled on testing.
   <br>
 Update : 22 January 2020
+
+More forms Incoming to be filled.
 
 - chrome version added.
 - multitables support
