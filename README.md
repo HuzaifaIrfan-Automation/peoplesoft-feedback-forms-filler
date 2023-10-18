@@ -1,21 +1,7 @@
-# PeopleSoft NUST CMS FeedBack Form Auto Filler (Educational Purposes only)
-To AutoFill Student Course Evaluation Forms And Student Teacher Evaluation Forms Only..
+# PeopleSoft CMS FeedBack Form Auto Filler (Educational Purposes only)
 
 Only for Educational Purposes 
 Use at your own Risk.
-
-It is encouraged to fill the form with true spirit and motivation.
-
-
-
-## Description
-
-Feedback Form Auto Filler That automatically fills forms for you so that 
-1. You don't waste your time in filling the forms (if you don't wanted to) After every semester or two or more times b/w every semester.
-2. You can utilize that time in learning and some valuable work.
-3. Stop thinking of threats that you will not be able to sit in exams if you not do so.
-
-Code is opensource. Feel Free to View and Contribute any Bug Fixes
 
 
 ## App Run
@@ -86,26 +72,6 @@ or
 
 
 
-### 
-* Website [huzaifairfan.com](http://huzaifairfan.com/)
-* Email : [huzaifairfan2001@gmail.com](mailto:huzaifairfan2001@gmail.com)
-* Facebook : [huzaifairfan2001@facebook](https://www.facebook.com/huzaifairfan2001)
-
-
-
-
- <br>
- Completion : 3 December 2020
- 
- My All forms are filled on testing.
-  <br>
-Update : 22 January 2020
-
-More forms Incoming to be filled.
-
-- chrome version added.
-- multitables support
-- auto detect forms and rows.
 
 
  <br>
