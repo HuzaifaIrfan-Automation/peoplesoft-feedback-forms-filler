@@ -30,7 +30,7 @@ Use at your own Risk.
 #### Install Python and Libraries (add to path for easy access)
 
 ```bash
-pip install -r req.txt 
+pip install -r requirements.txt 
 ```
 
 or
