@@ -1,27 +1,42 @@
-# PeopleSoft CMS FeedBack Form Auto Filler (Educational Purposes only)
+<br />
+
+<div align="center">
+  <h1>PeopleSoft CMS FeedBack Form Auto Filler </h1>
+  <p><h3 align="center">Selenium Based Form Autofill 🚀</h3></p>
+</div>
+
+[Video](https://www.youtube.com/watch?v=VgeBiDrluRA)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+
+<hr>
+
+
+<div align="center">
+
+![ss](/ss.png)
+
+</div>
+
+## Info
 
 Only for Educational Purposes 
 Use at your own Risk.
 
 
-## App Run
-<!-- https://www.youtube.com/watch?v=vb2LUrOAZCk -->
-https://www.youtube.com/watch?v=VgeBiDrluRA
 
-
-## Multi Form Screen Shot
-![ss](/ss.png)
-
-
-
-# Instructions
+## Instructions
 ### Installing Dependencies
 #### Install Python and Libraries (add to path for easy access)
-> pip install -r req.txt 
+
+```bash
+pip install -r req.txt 
+```
 
 or
-
-> pip install selenium
+```bash
+pip install selenium
+```
 
 #### Install Firefox and Driver
 ##### For Windows User
@@ -33,10 +48,13 @@ or
 
 
 ##### For Linux Users:
+```bash
+sudo apt install firefox
+```
 
-> sudo apt install firefox
-
-> sudo apt install firefox-geckodriver
+```bash
+sudo apt install firefox-geckodriver
+```
 
 
 #### OR
@@ -50,10 +68,13 @@ or
 
 
 ##### For Linux Users:
+```bash
+sudo apt install chromium-browser
+```
 
-> sudo apt install chromium-browser
-
-> sudo apt install chromium-chromedriver
+```bash
+sudo apt install chromium-chromedriver
+```
 
 
 
@@ -64,18 +85,27 @@ or
 
 
 ### Running the App and Watch it Fill Your Forms
-> python firefox.py
+```bash
+python firefox.py
+```
 
 or
-
-> python chrome.py
-
-
-
+```bash
+python chrome.py
+```
 
 
- <br>
- By Huzaifa Irfan
+## 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/huzaifairfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
+<a href="mailto:contact@huzaifairfan.com"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-cd486b?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-4267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
+## License
 
+Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](LICENSE)
