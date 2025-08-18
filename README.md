@@ -5,8 +5,9 @@
   <p><h3 align="center">Selenium Based Form Autofill 🚀</h3></p>
 </div>
 
-[Video](https://www.youtube.com/watch?v=VgeBiDrluRA)
-&nbsp;&nbsp;•&nbsp;&nbsp;
+## 🎬 Demo
+
+[![Demo](https://img.youtube.com/vi/VgeBiDrluRA/0.jpg)](https://www.youtube.com/watch?v=VgeBiDrluRA)
 
 
 <hr>
